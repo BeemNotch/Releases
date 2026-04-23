@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://beemnotch.com/icon.png" width="120" alt="BeemNotch" />
+    <img src="https://beemnotch.com/logo.png" width="160" alt="BeemNotch" />
   </p>
 
   <h1 align="center">BeemNotch</h1>
